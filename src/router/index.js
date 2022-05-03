@@ -9,7 +9,7 @@ Vue.use(VueRouter);
 //import axios
 import axios from "axios";
 //default base URL / EndPoint API
-axios.defaults.baseURL = "http://127.0.0.1:8000";
+axios.defaults.baseURL = "https://globe2admin.online/";
 
 const router = new VueRouter({
   routes: [
