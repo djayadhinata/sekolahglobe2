@@ -1,7 +1,7 @@
 <template>
   <nav
     class="navbar navbar-expand-md navbar-dark fixed-top bg-dark"
-    style="border-top: 5px solid #0d106e;"
+    style="border-top: 5px solid #ff7619;"
   >
     <div class="container-fluid">
       <router-link :to="{ name: 'home' }" class="navbar-brand">

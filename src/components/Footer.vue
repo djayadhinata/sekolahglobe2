@@ -29,9 +29,9 @@
           <h5>KONTAK</h5>
           <hr />
           <p>
-            <i class="fa fa-map-marker" aria-hidden="true"></i>ase Camp, Komplek
-            Batu Aji Center Park Simpang, Tanjung Uncang, Batu Aji, Batam City,
-            Riau Islands 29425 <br />
+            <i class="fa fa-map-marker" aria-hidden="true"></i> Base Camp,
+            Komplek Batu Aji Center Park Simpang, Tanjung Uncang, Batu Aji,
+            Batam City, Riau Islands 29425 <br />
             <i class="fas fa-phone"></i> 0778-391333
           </p>
         </div>
